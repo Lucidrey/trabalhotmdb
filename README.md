@@ -41,8 +41,6 @@ npm run build
 
 ```sh
 
-### Access to site
+### Access to site.
 
 ```https://trabalhotmdb.vercel.app/
-npm run lint
-```
