@@ -37,10 +37,6 @@ npm run dev
 npm run build
 ```
 
-### Lint with [ESLint](https://eslint.org/)
+### Link to site
 
-```sh
-
-### Access to site.
-
-```https://trabalhotmdb.vercel.app/
+https://trabalhotmdb.vercel.app/
